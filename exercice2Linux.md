@@ -36,6 +36,9 @@ Q.2.3.5: 3 G
 # Partie 4:
 # Partie 5:
 Q.2.5.1: 
+Q.2.5.2: LE port 22 (ssh) est accepter les protocoles ipv4 et v6 icmp aussi 
+Q.2.5.3: Aucun
+Q.2.5.4
 # Partie 6:
 Q.2.6.1
 
