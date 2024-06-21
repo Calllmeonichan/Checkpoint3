@@ -26,5 +26,6 @@ Q.2.3.5: 3 G
 # Partie 4:
 # Partie 5:
 Q.2.5.1: 
-
+# Partie 6:
+Q.2.6.1
 
