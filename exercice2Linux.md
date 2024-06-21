@@ -1,7 +1,7 @@
 # Partie 1:
 Q.2.1.1: ![](https://raw.githubusercontent.com/Calllmeonichan/Checkpoint3/main/Check%20ex2/1.png)
 
-Q.2.1.2: Pour une utilisation personnel on peut lui donner tout les droit 
+Q.2.1.2: Pour une utilisation personnel on peut lui donner tout les droits 
 # Partie 2:
 Q.2.2.1: Voir capture d'ecran 
 Q.2.2.2: voir capture d'ecran 
@@ -36,9 +36,15 @@ Q.2.3.5: 3 G
 # Partie 4:
 # Partie 5:
 Q.2.5.1: 
+![](https://raw.githubusercontent.com/Calllmeonichan/Checkpoint3/main/Check%20ex2/7.png) 
+
 Q.2.5.2: LE port 22 (ssh) est accepter les protocoles ipv4 et v6 icmp aussi 
-Q.2.5.3: Aucun
+
+Q.2.5.3: Aucun 
+
 Q.2.5.4
 # Partie 6:
-Q.2.6.1
+Q.2.6.1: 
+![](https://raw.githubusercontent.com/Calllmeonichan/Checkpoint3/main/Check%20ex2/8.png) 
+
 
